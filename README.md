@@ -34,3 +34,4 @@ The effects of this simple yet powerful script can be seen in the video below:
 
 https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi/assets/35704910/5c7b53b0-90b7-4e00-9055-686648546965
 
+Project page: https://sarakit.saraai.com/example-of-use/speech-recognition

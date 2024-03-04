@@ -18,7 +18,7 @@ sudo apt-get install pip
 sudo apt-get install -y python3-pyaudio
 sudo pip3 install vosk
 
-git clone [link] SpeechRecognition
+git clone https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi SpeechRecognition
 cd SpeechRecognition
 ```
 
